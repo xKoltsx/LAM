@@ -1,0 +1,73 @@
+# Compiled class file
+**/target/
+
+# Log file
+**/logs/
+
+# BlueJ files
+**/BlueJ.pkg.hier
+
+# Package Files #
+**/*.jar
+**/*.war
+**/*.nar
+**/*.ear
+**/*.zip
+**/*.tar.gz
+**/*.rar
+
+# IDEA files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Angular node_modules
+node_modules/
+
+# Angular dist/ folder
+dist/
+
+# Npm debug logs
+npm-debug.log*
+
+# Ignore the output of the build tool
+out/
+*.class
+
+# Ignore generated files
+bin/
+gen/
+.libs/
+**/*.apk
+**/*.ap_
+
+# Ignore metadata files
+*.class
+*.log
+*.pyc
+*.pyo
+*.rbc
+*.swp
+*cgo*
+.rakeTasks~
+*.bak
+*.sw?
+*~
+.DS_Store
+.idea
+[Thumbs.db](http://thumbs.db)
+ehthumbs.db
+*.swo
+*.swn
+*.suo
+*.user
+*.orig
+*.DS_Store
+*.rej
+*.swo
+*~
+
+# Files related to testing
+test-output/
+target/surefire-reports/
